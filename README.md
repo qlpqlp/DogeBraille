@@ -4,11 +4,8 @@ DogeBraille</h1>
  Dogecoin Wallets for the Blind Shibes
 <br>
 <img src="https://dogebraille.com/img/dogebraille_bg.png" alt="Dogecoin Wallets for the Blind Shibes" />
-<br><br>
 
-<br>
 (Powerd by <a href="https://github.com/dogecoinfoundation/libdogecoin" alt="LibDogecoin" target="_blank"> LibDogecoin</a>)
-<br>
 
 Generate Dogecoin Wallets for Visual impairments shibes using LibDogecoin
 
