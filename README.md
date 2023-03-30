@@ -1,11 +1,11 @@
 <h1 align="center">
-DogeBraille
+DogeBraille</h1>
 <br>
  Dogecoin Wallets for the Blind Shibes
 <br>
-<img src="https://dogebraille/img/dogebraille_bg" alt="Dogecoin Wallets for the Blind Shibes" />
+<img src="https://dogebraille/img/dogebraille_bg.png" alt="Dogecoin Wallets for the Blind Shibes" />
 <br><br>
-</h1>
+
 <br>
 (Powerd by <a href="https://github.com/dogecoinfoundation/libdogecoin" alt="LibDogecoin" target="_blank"> LibDogecoin</a>)
 <br>
